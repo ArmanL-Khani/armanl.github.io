@@ -5,7 +5,6 @@ category: preprints
 permalink: /publication/CGL
 excerpt: 'All rights reserved.'
 date: 2025-7-30
-venue: 'Preprint'
 paperurl: 'http://academicpages.github.io/files/CGL.pdf'
 show_on_site: true
 ---
