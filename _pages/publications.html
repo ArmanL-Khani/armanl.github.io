@@ -28,7 +28,10 @@ author_profile: true
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+  <!-- If for my own flag -->
+    {% if post.show_on_site %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
 {% endif %}
 
