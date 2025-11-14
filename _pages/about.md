@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Info."
+title: "Arman Lotfalikhani"
 author_profile: true
 redirect_from: 
   - /about/

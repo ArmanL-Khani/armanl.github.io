@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Arman Lotfalikhani's Home Page"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Arman Lotfalikhani"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Arman Lotfalikhani"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"MASc student at"
   location         : "Vancouver, Canada"
   employer         : "University of British Columbia"
   uri              : # URL
@@ -81,12 +81,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  #books:
+  #  title: 'Books'
+  #manuscripts:
+  #  title: 'Journal Articles'    
+  #conferences:
+  #  title: 'Conference Papers'
   preprints:
     title: 'Preprints'
 

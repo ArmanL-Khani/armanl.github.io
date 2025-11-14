@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/CGL
 excerpt: 'All rights reserved.'
 date: 2025-7-30
-paperurl: 'http://academicpages.github.io/files/CGL.pdf'
+paperurl: 'http://armanl-khani.github.io/armanl.github.io/files/CGL.pdf'
 show_on_site: true
 ---
 © 2025 Arman Lotfalikhani et al.
